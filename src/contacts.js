@@ -1,10 +1,10 @@
 const contacts = [
   {
-    name: "Reddinton",
+    name: "Beyonce",
     imgURL:
-      "https://i.pinimg.com/736x/c5/24/7d/c5247dcc20ce2077dd1fbfdafcd19afa.jpg",
+      "https://blackhistorywall.files.wordpress.com/2010/02/picture-device-independent-bitmap-119.jpg",
     phone: "+123 456 789",
-    email: "cc@red.com"
+    email: "b@beyonce.com"
   },
   {
     name: "Jack Bauer",
@@ -21,9 +21,5 @@ const contacts = [
     email: "gmail@chucknorris.com"
   }
 ];
+
 export default contacts;
-// This file exports an array of contact objects.
-// Each object contains the following properties:
-// - name: The name of the contact.
-// - imgURL: The URL of the contact's image.
-// - phone: The contact's phone number.   
